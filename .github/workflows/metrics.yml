@@ -71,5 +71,5 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap: no
           repositories_affiliations: owner, collaborator
