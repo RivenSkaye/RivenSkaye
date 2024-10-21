@@ -21,15 +21,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: regular
           config_octicon: yes
-          config_order: calendar, base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits, lines, anilist
+          config_order: calendar, base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits
           config_timezone: Europe/Amsterdam
-          plugin_anilist: yes
-          plugin_anilist_limit: 4
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: Prysm
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_discussions: yes
@@ -39,9 +32,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: graph
-          plugin_habits_days: 30
+          plugin_habits_days: 365
           plugin_habits_facts: yes
-          plugin_habits_from: 1000
+          plugin_habits_from: 10000
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: no
@@ -65,10 +58,10 @@ jobs:
           plugin_lines_delay: 10
           plugin_reactions: yes
           plugin_reactions_display: relative
-          plugin_reactions_limit: 2100
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
+          plugin_reactions_limit: 21000
+          plugin_reactions_limit_discussions: 1000
+          plugin_reactions_limit_discussions_comments: 1000
+          plugin_reactions_limit_issues: 1000
           plugin_stargazers: no
           plugin_stargazers_charts: no
           repositories_affiliations: owner, collaborator
