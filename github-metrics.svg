@@ -1,104 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1473" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1708" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                    </svg>
-                    Contributions calendar
-                </h2>
-                <div class="row">
-                    <section>
-                        <svg class="calendar" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0 795,130">
-                            <g transform="translate(0, 14)">
-                                <text x="0" y="0">2025</text>
-                                <g transform="translate(0, 0)">
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(15, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(30, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(45, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(60, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(75, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(90, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(105, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                </g>
-                                <g transform="translate(120, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                </g>
-                            </g>
-                        </svg>
-                    </section>
-                </div>
-            </section>
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/jpg;base64,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" width="20" height="20" />
@@ -136,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -188,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    61.8k added, 23.7k removed
+                                    35.6k added, 13.9k removed
                                 </div>
                             </section>
                             <section>
@@ -485,6 +392,373 @@
                     </ul>
                 </div>
             </section>
+            <section class="habits">
+                <div class="column chart largeable">
+                    <h3>Commit activity per hour of day</h3>
+                    <div class="row margin-bottom">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160">
+                            <g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                                <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
+                                <g class="tick" opacity="1" transform="translate(10.5,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">0</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(30.065217391304348,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">1</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(49.630434782608695,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(69.19565217391305,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">3</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(88.76086956521739,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">4</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(108.32608695652173,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">5</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(127.8913043478261,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">6</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(147.45652173913044,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">7</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(167.02173913043478,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">8</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(186.58695652173913,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">9</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(206.15217391304347,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(225.7173913043478,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(245.2826086956522,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(264.8478260869565,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">13</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(284.4130434782609,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">14</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(303.9782608695652,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">15</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(323.54347826086956,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">16</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(343.10869565217394,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">17</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(362.67391304347825,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">18</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(382.2391304347826,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">19</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(401.80434782608694,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">20</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(421.3695652173913,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">21</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(440.9347826086956,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">22</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(460.5,0)">
+                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">23</text>
+                                </g>
+                            </g>
+                            <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
+                                <g class="tick" opacity="1" transform="translate(0,10.5)">
+                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(0,58)">
+                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(0,105.5)">
+                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</text>
+                                </g>
+                            </g>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,10L146.957,10L166.522,105L186.087,105L205.652,105L225.217,105L244.783,10L264.348,105L283.913,105L303.478,105L323.043,105L342.609,10L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,105L381.739,105L362.174,105L342.609,10L323.043,105L303.478,105L283.913,105L264.348,105L244.783,10L225.217,105L205.652,105L186.087,105L166.522,105L146.957,10L127.391,10L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <g>
+                                <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="362.17391304347825" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="440.4347826086956" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc"/>
+                            </g>
+                            <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
+                                <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="29.565217391304348" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="88.26086956521739" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="127.3913043478261" y="10" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="146.95652173913044" y="10" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="244.7826086956522" y="10" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="303.4782608695652" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="342.60869565217394" y="10" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="362.17391304347825" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="440.4347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)"/>
+                            </g>
+                        </svg>
+                    </div>
+                </div>
+                <div class="row largeable">
+                    <section class="column chart">
+                        <h3>Commit activity per day of week</h3>
+                        <div class="margin-bottom">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
+                                <g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                                    <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H196.5"/>
+                                    <g class="tick" opacity="1" transform="translate(10.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sun</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(41.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(72.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(103.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(134.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(165.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(196.5,0)">
+                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat</text>
+                                    </g>
+                                </g>
+                                <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
+                                    <g class="tick" opacity="1" transform="translate(0,10.5)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2.0</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,34.25)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.5</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,58)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,81.75)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,105.5)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</text>
+                                    </g>
+                                </g>
+                                <path transform="translate(10,10)" d="M10,105L41,57.5L72,57.5L103,10L134,105L165,105L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,105L134,105L103,10L72,57.5L41,57.5L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                                <g>
+                                    <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="41" cy="57.5" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="57.5" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc"/>
+                                </g>
+                                <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
+                                    <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                    <text transform="translate(10,6)" x="41" y="57.5" fill="rgba(127, 127, 127, .8)">1</text>
+                                    <text transform="translate(10,6)" x="72" y="57.5" fill="rgba(127, 127, 127, .8)">1</text>
+                                    <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                    <text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                    <text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                </g>
+                            </svg>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
+                    </svg>
+                    Lines of code pushed
+                </h2>
+                <div class="row margin-bottom">
+                    <h3 class="margin-lr-auto">Diff history</h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
+                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
+                            <g class="tick" opacity="1" transform="translate(50.540726817042604,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(79.75877192982456,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(110.9498746867168,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(141.17543859649123,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(172.40852130325814,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(202.6340852130326,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(233.8671679197995,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(265.10025062656644,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(295.32581453634083,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(326.60087719298247,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(356.82644110275686,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(388.0595238095238,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2025</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(419.29260651629073,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
+                            </g>
+                        </g>
+                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
+                            <g class="tick" opacity="1" transform="translate(0,22.917211328976045)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">800</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,52.43790849673204)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">600</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,81.958605664488)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">400</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,111.479302832244)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">200</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,141)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,170.520697167756)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−200</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,200.041394335512)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−400</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,229.56209150326796)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−600</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,259.08278867102393)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−800</text>
+                            </g>
+                        </g>
+                        <path d="M39,140.5L46.053,140.5L60.158,140.5L67.211,140.5L81.316,140.5L95.421,140.5L180.053,140.5L208.263,140.5L292.895,140.5L299.947,140.5L398.684,140.5L433.947,140.5L441,140.5L441,124.854L433.947,21.532L398.684,140.205L299.947,129.577L292.895,70.831L208.263,134.448L180.053,127.216L95.421,137.696L81.316,137.253L67.211,116.293L60.158,136.367L46.053,5L39,105.961Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L46.053,140.5L60.158,140.5L67.211,140.5L81.316,140.5L95.421,140.5L180.053,140.5L208.263,140.5L292.895,140.5L299.947,140.5L398.684,140.5L433.947,140.5L441,140.5L441,146.404L433.947,141.09L398.684,140.795L299.947,176.515L292.895,159.393L208.263,144.928L180.053,144.042L95.421,141.09L81.316,143.747L67.211,151.127L60.158,147.142L46.053,199.541L39,145.666Z" fill="rgb(218, 54, 51)"/>
+                    </svg>
+                </div>
+            </section>
             <section class="largeable largeable-inline-flex">
                 <div class="row">
                     <section>
@@ -498,7 +772,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2229 Commits
+                            2230 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -567,133 +841,9 @@
                     </section>
                 </div>
             </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
-                    </svg>
-                    Lines of code pushed
-                </h2>
-                <div class="row margin-bottom">
-                    <h3 class="margin-lr-auto">Diff history</h3>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
-                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(58.04464285714286,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(101.11607142857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(145.62321428571428,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(190.13035714285715,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(233.20178571428573,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(277.76874999999995,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(320.84017857142857,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(365.3473214285714,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2025</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(409.8544642857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
-                            </g>
-                        </g>
-                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
-                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,41.03688675765401)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,91.01844337882699)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,141)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,190.981556621173)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,240.963113242346)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
-                            </g>
-                        </g>
-                        <path d="M39,140.5L260.1,140.5L430.95,140.5L441,140.5L441,135.302L430.95,120.307L260.1,5L39,139.101Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L260.1,140.5L430.95,140.5L441,140.5L441,142.399L430.95,140.55L260.1,140.55L39,140.7Z" fill="rgb(218, 54, 51)"/>
-                    </svg>
-                </div>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
-                    </svg>
-                    3 Discussions started
-                </h2>
-                <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M16 1.25v4.146a.25.25 0 01-.427.177L14.03 4.03l-3.75 3.75a.75.75 0 11-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0111.604 1h4.146a.25.25 0 01.25.25zM2.75 3.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-2.5a.75.75 0 111.5 0v2.5A1.75 1.75 0 0113.25 13H9.06l-2.573 2.573A1.457 1.457 0 014 14.543V13H2.75A1.75 1.75 0 011 11.25v-7.5C1 2.784 1.784 2 2.75 2h5.5a.75.75 0 010 1.5h-5.5z"/>
-                            </svg>
-                            7 Comments
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
-                            </svg>
-                            0 Answers
-                        </div>
-                    </section>
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8.53 1.22a.75.75 0 00-1.06 0L3.72 4.97a.75.75 0 001.06 1.06l2.47-2.47v6.69a.75.75 0 001.5 0V3.56l2.47 2.47a.75.75 0 101.06-1.06L8.53 1.22zM3.75 13a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5z"/>
-                            </svg>
-                            5 Upvotes from discussions
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M3.47 7.78a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 0l4.25 4.25a.75.75 0 01-1.06 1.06L9 4.81v7.44a.75.75 0 01-1.5 0V4.81L4.53 7.78a.75.75 0 01-1.06 0z"/>
-                            </svg>
-                            11 Upvotes from comments
-                        </div>
-                    </section>
-                </div>
-                <div class="row fill-width">
-                    <section>
-                        <div class="field wrap">
-                            <div class="label label-flex">👾 Classification <div class="label-right">1</div></div>
-                            <div class="label label-flex">💡 Ideas <div class="label-right">1</div></div>
-                            <div class="label label-flex">💡 API Feature Requests &amp; Ideas <div class="label-right">1</div></div>
-                        </div>
-                    </section>
-                </div>
-            </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2025, 06:33:50 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Feb 2025, 08:40:06 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
