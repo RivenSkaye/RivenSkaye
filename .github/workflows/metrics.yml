@@ -19,7 +19,7 @@ jobs:
           user: RivenSkaye
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: regular
+          config_display: columns
           config_octicon: yes
           config_order: base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits, lines
           config_timezone: Europe/Amsterdam
