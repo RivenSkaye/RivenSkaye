@@ -22,7 +22,6 @@ jobs:
           config_display: regular
           config_octicon: yes
           config_order: base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits, lines
-          config_output: markdown
           config_timezone: Europe/Amsterdam
           optimize: css, html
           plugin_calendar: no
