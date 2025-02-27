@@ -21,20 +21,21 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: regular
           config_octicon: yes
-          config_order: calendar, base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits
+          config_order: base.header, base.activity, base.metadata, base.repositories, languages, followup, reactions, habits, lines
           config_timezone: Europe/Amsterdam
-          plugin_calendar: yes
+          plugin_calendar: no
           plugin_calendar_limit: 1
-          plugin_discussions: yes
+          plugin_discussions: no
           plugin_discussions_categories: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: no
-          plugin_habits_days: 365
+          plugin_habits_charts_type: graph
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 1000
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: no
           plugin_languages: yes
@@ -42,7 +43,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
