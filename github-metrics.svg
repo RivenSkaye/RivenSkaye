@@ -49,7 +49,7 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -61,7 +61,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -152,21 +152,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="249.3723394509421" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="249.2665341916736" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="249.3723394509421" y="0" width="119.56249427428467" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="249.2665341916736" y="0" width="119.7069372331041" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="368.9348337252267" y="0" width="40.728830121843224" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="368.9734714247777" y="0" width="40.71154943850749" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="409.66366384707" y="0" width="35.26802455186734" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="409.6850208632852" y="0" width="35.253060813347616" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="444.9316883989373" y="0" width="8.558188536354475" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="444.93808167663286" y="0" width="8.554557414478845" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="453.48987693529176" y="0" width="3.3853482761779703" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="453.4926390911117" y="0" width="3.383911919391714" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="456.87522521146974" y="0" width="1.4289400555776102" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="456.8765510105034" y="0" width="1.4283337759341166" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="458.3041652670473" y="0" width="1.6958347329526369" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="458.30488478643747" y="0" width="1.695115213562509" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -339,7 +339,7 @@
   <section>
     <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/></svg>
-      Overall users reactions from last 571 comments
+      Overall users reactions from last 573 comments
     </h2>
     <div class="row">
       <section>
@@ -506,7 +506,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            2288 Commits
+            2295 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -522,7 +522,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            400 issue comments
+            402 issue comments
           </div>
         </section>
       
@@ -654,7 +654,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 22 May 2025, 07:36:34 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 22 May 2025, 12:40:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
