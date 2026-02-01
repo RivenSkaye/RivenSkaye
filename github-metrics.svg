@@ -351,7 +351,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.761682242990654 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.711627906976744 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -377,7 +377,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.58411214953271 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.376744186046515 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👎</text>
                       
@@ -390,7 +390,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.911214953271028 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.832558139534882 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😄</text>
                       
@@ -415,7 +415,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.299065420560746 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.241860465116279 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👀</text>
                       
@@ -428,7 +428,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0747663551401865 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0604651162790697 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                       
@@ -441,7 +441,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.5373831775700932 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.5302325581395348 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                       
@@ -644,7 +644,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 1 Feb 2026, 11:47:40 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 1 Feb 2026, 16:43:12 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
