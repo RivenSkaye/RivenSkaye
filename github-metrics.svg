@@ -351,7 +351,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.612903225806452 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.129032258064516 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -644,7 +644,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 15 Feb 2026, 07:09:27 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Feb 2026, 11:48:26 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
